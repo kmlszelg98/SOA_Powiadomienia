@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="JBoss 10.2.0.Final1" level="application_server_libraries" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/javax.jms.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/cdi-api.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/javax-inject.jar!/" />
+          <root url="file://$MODULE_DIR$/.." />
+          <root url="file://$MODULE_DIR$/.." />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/.." />
+          <root url="file://$MODULE_DIR$/../ActiveTest/src" />
+          <root url="file://$MODULE_DIR$/../Agentowe/Agentowe/src" />
+          <root url="file://$MODULE_DIR$/../BasicEjb2/K3/src" />
+          <root url="file://$MODULE_DIR$/../BasicEjb2/src/main/java" />
+          <root url="file://$MODULE_DIR$/../BasicEjb/src" />
+          <root url="file://$MODULE_DIR$/../Ejb1/src" />
+          <root url="file://$MODULE_DIR$/../Ejb1/webclient/src" />
+          <root url="file://$MODULE_DIR$/../Imap/src" />
+          <root url="file://$MODULE_DIR$/../JMS1/src" />
+          <root url="file://$MODULE_DIR$/../JMS2/src" />
+          <root url="file://$MODULE_DIR$/../JMS3/src" />
+          <root url="file://$MODULE_DIR$/src" />
+          <root url="file://$MODULE_DIR$/../Jade/src" />
+          <root url="file://$MODULE_DIR$/../LibBack2 — kopia/src" />
+          <root url="file://$MODULE_DIR$/../LibBack2/src" />
+          <root url="file://$MODULE_DIR$/../LibBack/src" />
+          <root url="file://$MODULE_DIR$/../Library/src" />
+          <root url="file://$MODULE_DIR$/../MyServlet/src" />
+          <root url="file://$MODULE_DIR$/../OpenCV/src" />
+          <root url="file://$MODULE_DIR$/../Piwo2/src" />
+          <root url="file://$MODULE_DIR$/../SOA_3/GraLiczbowa/src" />
+          <root url="file://$MODULE_DIR$/../SOA_3/KsiegaGosci/src" />
+          <root url="file://$MODULE_DIR$/../SOA_3/Piwo/src" />
+          <root url="file://$MODULE_DIR$/../SOA_3/Zadanie_1/src" />
+          <root url="file://$MODULE_DIR$/../SOA_3/Zakupy/src" />
+          <root url="file://$MODULE_DIR$/../SOA_4/test2_jsf/src" />
+          <root url="file://$MODULE_DIR$/../SOA_4/test_jsf/src" />
+          <root url="file://$MODULE_DIR$/../Soa_2/KsiegaGosci/src" />
+          <root url="file://$MODULE_DIR$/../Soa_2/SOA2/src" />
+          <root url="file://$MODULE_DIR$/../Speech2/src" />
+          <root url="file://$MODULE_DIR$/../Speech/src" />
+          <root url="file://$MODULE_DIR$/../Start/src" />
+          <root url="file://$MODULE_DIR$/../TempBack/src" />
+          <root url="file://$MODULE_DIR$/../Temp/src" />
+          <root url="file://$MODULE_DIR$/../Waluta_Test/src" />
+          <root url="file://$MODULE_DIR$/../XML/src" />
+          <root url="file://$MODULE_DIR$/../inzynierka/Applet_Test/src" />
+          <root url="file://$MODULE_DIR$/../test_jsf — kopia/src" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/.." recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/.." recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/com.google.collections.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/gson-2.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jersey-client-1.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jersey-core-1.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jersey-json-1.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
